@@ -1,3 +1,10 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Git Demo First Project</title>
+    </head>
+    <body>
+    </body>
 <?php
 
 /* 
@@ -6,4 +13,7 @@
  * and open the template in the editor.
  */
 
-echo "this is my first Git demo project";
+echo "<h1>this is my first Git demo project</h2>";
+?>
+
+</html>
