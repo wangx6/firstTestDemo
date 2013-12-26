@@ -8,5 +8,5 @@
 <?php
     echo "<h1>this is my first Git demo project</h2>";
 ?>
-        </body>
+    </body>
 </html>
