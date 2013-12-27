@@ -6,7 +6,7 @@
     <body>
     
 <?php
-    echo "<h1>this is my first Git demo project</h2>";
+    echo "<h1>this is my first Git demo project</h1>";
 ?>
     </body>
 </html>
