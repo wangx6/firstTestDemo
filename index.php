@@ -6,6 +6,18 @@
     <body>
     
 <?php
+    
+    class Human
+    {
+        protected $name;
+	protected $age;
+	
+	protected oneMoreYear()
+	{
+	    return $age++;
+	}
+    }
+
     echo "<h2>this is my first Git demo project</h2>";
     echo "this is my test for branching and merging";:
 ?>
