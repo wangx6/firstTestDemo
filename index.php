@@ -24,6 +24,10 @@
 	{
 	    return TRUE;
 	}
+	public getGender()
+	{
+	    return "FEMALE";
+	}
     }
 
     
