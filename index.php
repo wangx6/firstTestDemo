@@ -27,6 +27,10 @@
 
 
     }
+
+    class Man extends Human
+    {
+    }
     
     class Automobile
     {
