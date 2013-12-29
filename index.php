@@ -24,6 +24,16 @@
 	{
 	    return TRUE;
 	}
+	public getGender()
+	{
+	    return "FEMALE";
+	}
+
+
+    }
+    
+    class Automobile
+    {
     }
 
 <<<<<<< HEAD
