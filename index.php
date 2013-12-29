@@ -20,13 +20,20 @@
     
     class Woman extends Human
     {
-        
+        public giveBirth()
+	{
+	    return TRUE;
+	}
     }
 
+<<<<<<< HEAD
     class Man extends Human
     {
         
     }
+=======
+    
+>>>>>>> master-topic
 
     echo "<h2>this is my first Git demo project</h2>";
     echo "this is my test for branching and merging";:
