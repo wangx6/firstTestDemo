@@ -17,6 +17,16 @@
 	    return $age++;
 	}
     }
+    
+    class Woman extends Human
+    {
+        public giveBirth()
+	{
+	    return TRUE;
+	}
+    }
+
+    
 
     class Man extends Human
     {
